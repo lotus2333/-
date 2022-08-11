@@ -1,2 +1,24 @@
-# -
-这是我大三时做的一个仿知乎日报项目，可能还存在这很多不足和BUG。另外他是适配移动端屏幕的
+# demozhihu
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
